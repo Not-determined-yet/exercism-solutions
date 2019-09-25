@@ -1,0 +1,5 @@
+# scala
+scala/*/project/target
+scala/*/target
+scala/*/.exercism
+scala/*/src/main/scala/.keep
